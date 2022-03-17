@@ -9,7 +9,7 @@ Data
 ----
 The data use for examples is in directory data. For complete data see:
 
-[TRMM 3B42-v7 daily](https://disc.gsfc.nasa.gov/datasets/TRMM_3B42_Daily_7/summary)
+[GPM IMERG Final Precipitation L3 Half Hourly](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHH_06/summary?keywords=IMERG)
 
 Figures
 ----
