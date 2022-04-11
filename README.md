@@ -1,6 +1,5 @@
 IMERG processing
 =================================================
-
 Overview
 ---
 This repository accumulates and remaps rainfall IMERG data.
@@ -11,12 +10,10 @@ The data use for examples is in directory data. For complete data see:
 
 [GPM IMERG Final Precipitation L3 Half Hourly](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHH_06/summary?keywords=IMERG)
 
-Figures
-----
-Montlhy mean
+-------------------------------------
+Seasonal climatology
+
+Monthly climatology
 <div align="center">
   <img src="https://raw.githubusercontent.com/mhacarthur/IMERG_processing/master/images/IMERG_2001_Monthly_Seasonal.png" alt="Monthly_mean" />
 </div>
-
-
-
