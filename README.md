@@ -12,6 +12,10 @@ The data use for examples is in directory data. For complete data see:
 
 -------------------------------------
 Seasonal climatology
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/IMERG_processing/master/images/IMERG_Season_climatology.png" alt="Seasonal_Climatology" />
+</div>
+
 
 Monthly climatology
 <div align="center">
