@@ -4,8 +4,8 @@ clear
 echo " "
 echo "GOES16 GLM descarga"
 
-USER='arturo66cta@gmail.com'
-PASS='Mazamorra2328'
+USER=$IMERG_USER
+PASS=$IMERG_PASS
 
 n=1
 for x in $(cat /mnt/Data/Data/IMERG/download/IMERG_2021_03_2021_08.txt);do
