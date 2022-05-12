@@ -16,7 +16,6 @@ Seasonal climatology
   <img src="https://raw.githubusercontent.com/mhacarthur/IMERG_processing/master/images/IMERG_Season_climatology.png" alt="Seasonal_Climatology" />
 </div>
 
-
 Monthly climatology
 <div align="center">
   <img src="https://raw.githubusercontent.com/mhacarthur/IMERG_processing/master/images/IMERG_2001_Monthly_Seasonal.png" alt="Monthly_mean" />
