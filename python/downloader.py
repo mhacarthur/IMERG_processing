@@ -9,9 +9,9 @@ import regex as re
 max_retries = 30  # Número máximo de tentativas de download
 retry_interval = 30  # 5 minutos em segundos
 num_workers = 20  # Número de processos paralelos
-user = 'UserName'
-password = 'Password'
-output_Dir = '/directory/output/'
+user = 'arturo66cta@gmail.com'
+password = 'Mazamorra2328'
+output_Dir = 'D://Data//IMERG//raw//monthly'
 
 def download_url(url):
     filename = re.search(r'LABEL=.\S+\b.S\d{6}', url).group(0)
