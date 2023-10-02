@@ -9,8 +9,8 @@ import regex as re
 max_retries = 30  # Número máximo de tentativas de download
 retry_interval = 30  # 5 minutos em segundos
 num_workers = 20  # Número de processos paralelos
-user = 'arturo66cta@gmail.com'
-password = 'Mazamorra2328'
+user = 'user'
+password = 'pass'
 output_Dir = 'D://Data//IMERG//raw//monthly'
 
 def download_url(url):
